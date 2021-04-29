@@ -1,0 +1,27 @@
+body {
+    background-image: url('../assets/images/puzzle-image-test.png');
+    background-color: #cccccc;
+  background-repeat:repeat-y;
+  background-size: 100%;
+  } 
+  
+  
+  /* Main content */
+  .main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+  }
+  
+  
+  
+  h4 {
+   color: black;
+   font-family: sans-serif;
+   display:block;
+   width: 300px;
+   height: 100px;
+  }
+  
+  h1 {
+    display: block;
+    width: 250px;
+  }
