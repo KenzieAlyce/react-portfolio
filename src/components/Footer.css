@@ -1,0 +1,47 @@
+/* Bottom navigation bar */
+#contact {
+    position:fixed;
+    bottom: 0px; /* Position the navbar at the bottom of the page */
+    left: 0px;
+    width: 100%; /* Full width */
+    background-color: rgb(21, 59, 38);
+    height: 150px
+  }
+  #contact a {
+    
+     height: 20px;
+     width: 100%;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+    
+  }
+  
+  ul li {
+    display: inline;
+  }
+  
+  /* Change background on mouse-over */
+  #contact a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  #contact h3 {
+    text-align: center;
+  color: #f2f2f2;
+  }
+  
+  h4 {
+   color: black;
+   font-family: sans-serif;
+   display:block;
+   width: 300px;
+   height: 100px;
+  }
+  
+  h1 {
+    display: block;
+    width: 250px;
+  }
